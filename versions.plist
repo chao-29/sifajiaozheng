@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.0.0</key>
+	<key>1.0.1</key>
 	<array>
-		<string>司法矫正</string>
-		<string>首次发布</string>
+		<string>优化键盘</string>
+		<string>登录界面调整</string>
 	</array>
 </dict>
 </plist>
